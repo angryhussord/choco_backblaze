@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>backblaze</id>
+    <title>BackBlaze</title>
+    <version>1.0</version>
+    <authors>Backblaze</authors>
+    <owners>angryhussord</owners>
+    <summary>BackBlaze cloud backup software for Windows.</summary>
+    <description>Backblaze is a great way to get all your files backed up automatically. It's easy. It's secure. And if you lose data for any reason, you will be glad you have Backblaze backing up all of your files on the cloud.</description>
+    <projectUrl>https://www.backblaze.com/</projectUrl>
+    <tags>BackBlaze cloud backup files unlimited</tags>
+    <copyright></copyright>
+    <licenseUrl>https://secure.backblaze.com/buy_plan.htm</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl></iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes>https://www.backblaze.com/windows-online-backup.html</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

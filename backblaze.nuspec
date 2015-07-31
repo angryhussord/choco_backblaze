@@ -15,7 +15,7 @@
     <copyright></copyright>
     <licenseUrl>https://secure.backblaze.com/buy_plan.htm</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl></iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/angryhussord/choco_backblaze/2294d28eac59a7591035333daca16898f7768c98/backblaze-icon.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->

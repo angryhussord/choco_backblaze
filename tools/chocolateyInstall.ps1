@@ -1,4 +1,4 @@
-﻿$packageName = 'backblzae' 
+﻿$packageName = 'backblaze' 
 $installerType = 'exe' 
 $url = 'https://secure.backblaze.com/win32/install_backblaze.exe' 
 $silentArgs = '' 
